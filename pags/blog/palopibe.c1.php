@@ -9,5 +9,4 @@ $entry = array (
     'txt' => '<p>yo tambi&eacute;n te quiero pibe!</p>
 <p>SNIFF</p>',
   ),
-)
-?>
+);

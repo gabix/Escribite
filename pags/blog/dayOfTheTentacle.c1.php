@@ -56,5 +56,4 @@ $entry = array (
     'time' => 1350201545,
     'txt' => '<p>Me comento la vida de color de rosa</p>',
   ),
-)
-?>
+);

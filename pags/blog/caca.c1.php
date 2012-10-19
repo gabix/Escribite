@@ -8,5 +8,4 @@ $entry = array (
     'time' => 1350563242,
     'txt' => '<p>jejej, mirate al bichito!!!!</p>',
   ),
-)
-?>
+);

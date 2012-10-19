@@ -8,7 +8,6 @@ class SuperFuncs {
                 $s[$k] = htmlentities($val, ENT_QUOTES, "UTF-8");
             }
             return $s;
-            exit();
         }
         return htmlentities($s, ENT_QUOTES, "UTF-8");
     }

@@ -8,5 +8,4 @@ $entry = array (
     'time' => 1350285071,
     'txt' => '<p>Mu primer comentario!</p>',
   ),
-)
-?>
+);
